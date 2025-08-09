@@ -10,6 +10,7 @@ typedef std::map<char, unsigned int> map_char_uint_t;
 class Solution {
 	public:
 		vec_str_t commonChars(vec_str_t&);
+        
 };
 
 vec_str_t
