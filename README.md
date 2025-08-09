@@ -2,6 +2,7 @@
 A collection of solutions for LeetCode questions to practice various data structures, algorithms, approaches, and so on:
 
 <!---LeetCode Topics Start-->
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
