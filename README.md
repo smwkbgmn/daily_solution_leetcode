@@ -1,5 +1,5 @@
 # daily_solution_leetcode
-A collection of solutions for LeetCode questions to practice various data structures, algorithms, approaches, and so on:
+A collection of solutions for LeetCode questions to practice various data structures, algorithms, and approaches
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
