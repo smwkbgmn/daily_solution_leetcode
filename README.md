@@ -1,5 +1,5 @@
 # daily_solution_leetcode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+A collection of LeetCode questions to learn various data structures, algorithms, approaches, and so on:
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
