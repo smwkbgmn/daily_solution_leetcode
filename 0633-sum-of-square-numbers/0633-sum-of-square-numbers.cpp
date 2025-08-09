@@ -2,6 +2,7 @@
 class Solution {
 	public:
 		bool judgeSquareSum(int);
+        
 };
 bool Solution::judgeSquareSum(int c) {
 	long long pow_a;
