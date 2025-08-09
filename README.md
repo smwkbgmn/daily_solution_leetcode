@@ -28,4 +28,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0876-hand-of-straights) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0633-sum-of-square-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0633-sum-of-square-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
