@@ -1,15 +1,15 @@
 class Solution {
 public:
     int sumOfUnique(vector<int>& nums) {
-        map<int, int> counts;
+        vector<int> counts(100, 0);
         for (auto& n: nums) {
-            ++counts[n];
+            ++counts[n - 1];
         }
 
         int result = 0;
-        for (auto& [n, count]: counts) {
-            if (count == 1) {
-                result += n;
+        for (auto i = 0; i < 100; ++i) {
+            if (counts[i] == 1) {
+                result += (i + 1);
             }
         }
 
