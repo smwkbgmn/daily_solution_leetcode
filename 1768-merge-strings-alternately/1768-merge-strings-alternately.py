@@ -4,8 +4,8 @@ class Solution:
 
         result = ""
         for i in range(0, comlen):
-            result += word1[i]
-            result += word2[i]
-        
+            result += (word1[i] + word2[i])
+
         result += word2[comlen:] if len(word1) < len(word2) else word1[comlen:]
         return result
+            
