@@ -11,6 +11,7 @@ A collection of solutions for LeetCode questions to practice various data struct
 | [1044-find-common-characters](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1137-height-checker) |
 | [1487-cinema-seat-allocation](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1487-cinema-seat-allocation) |
+| [1732-find-the-highest-altitude](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
 |  |
@@ -66,4 +67,8 @@ A collection of solutions for LeetCode questions to practice various data struct
 | ------- |
 | [1137-height-checker](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1137-height-checker) |
 | [1748-sum-of-unique-elements](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1748-sum-of-unique-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
