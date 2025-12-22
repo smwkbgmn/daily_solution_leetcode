@@ -1,10 +1,10 @@
 class RecentCounter:
 
     def __init__(self):
-        self._rec = SortedList([])
+        self._rec = []
 
     def ping(self, t: int) -> int:
-        self._rec.add(t)
+        bisect.insort(self._rec, t)
         return self._count(t)
 
     def _count(self, t: int) -> int:
