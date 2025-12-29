@@ -9,29 +9,23 @@ class Solution:
         if root is None:
             return []
 
-        result = [root.val]
-        q = deque([root.left, root.right])
+        result = []
+        q = deque([root])
 
         while q:
-            for i in range(0, len(q)):
-                if q[i]:
-                    print(q[i].val, end=" ")
-            print()
+            result.append(q[-1].val)
 
             count = len(q)
-            right = None
             while count > 0:
                 node = q[0]
                 q.popleft()
                 count -= 1
 
                 if node:
-                    q.append(node.left)
-                    q.append(node.right)
-                    right = node.val
-                
-                if count == 0 and right is not None:
-                    result.append(right)
+                    if node.left:
+                        q.append(node.left)
+                    if node.right:
+                        q.append(node.right)
 
         return result
                 
