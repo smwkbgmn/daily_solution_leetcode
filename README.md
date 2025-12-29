@@ -105,16 +105,20 @@ A collection of solutions for LeetCode questions to practice various data struct
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
