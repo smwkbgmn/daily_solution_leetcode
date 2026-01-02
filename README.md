@@ -14,6 +14,7 @@ A collection of solutions for LeetCode questions to practice various data struct
 | [1487-cinema-seat-allocation](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1732-find-the-highest-altitude](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
@@ -119,6 +120,7 @@ A collection of solutions for LeetCode questions to practice various data struct
 | [0104-maximum-depth-of-binary-tree](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0841-keys-and-rooms](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0841-keys-and-rooms) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
 | ------- |
@@ -133,4 +135,8 @@ A collection of solutions for LeetCode questions to practice various data struct
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0841-keys-and-rooms) |
+## Matrix
+|  |
+| ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 <!---LeetCode Topics End-->
