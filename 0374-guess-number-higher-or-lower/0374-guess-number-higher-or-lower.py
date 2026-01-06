@@ -11,14 +11,12 @@ class Solution:
         needle = 0
         check = -42
 
-        while check != 0 and n - m != 1:
-            needle = (m + n) // 2
+        while check != 0:
+            needle = m + (n - m) // 2
             check = guess(needle)
             if check == 1:
-                m = needle
+                m = needle + 1
             else:
-                n = needle
+                n = needle - 1
 
-        if n - m == 1:
-            return m if guess(m) == 0 else n
         return needle
