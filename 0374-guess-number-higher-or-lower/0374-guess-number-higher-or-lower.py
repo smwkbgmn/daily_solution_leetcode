@@ -12,7 +12,7 @@ class Solution:
         check = -42
 
         while check != 0:
-            needle = m + (n - m) // 2
+            needle = (m + n) // 2
             check = guess(needle)
             if check == 1:
                 m = needle + 1
