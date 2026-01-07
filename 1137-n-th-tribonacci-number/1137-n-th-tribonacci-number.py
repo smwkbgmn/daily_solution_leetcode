@@ -7,6 +7,6 @@ class Solution:
         
         total = 2
         for i in range(3, n):
-            tri[0], tri[1], tri[2], total = tri[1], tri[2], total, total - tri[0] + total
+            tri[0], tri[1], tri[2], total = tri[1], tri[2], total, total * 2 - tri[0]
 
         return total
