@@ -9,7 +9,6 @@ class Solution:
         for i in range(3, n):
             tri.append(total)
             total += total
-
             total -= tri[0]
             tri.popleft()
 
