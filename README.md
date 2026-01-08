@@ -51,6 +51,7 @@ A collection of solutions for LeetCode questions to practice various data struct
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0062-unique-paths) |
 | [0633-sum-of-square-numbers](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
@@ -168,9 +169,14 @@ A collection of solutions for LeetCode questions to practice various data struct
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0062-unique-paths) |
 | [1137-n-th-tribonacci-number](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
