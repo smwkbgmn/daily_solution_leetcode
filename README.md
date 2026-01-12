@@ -69,6 +69,7 @@ A collection of solutions for LeetCode questions to practice various data struct
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0338-counting-bits) |
 | [1487-cinema-seat-allocation](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Simulation
@@ -170,6 +171,7 @@ A collection of solutions for LeetCode questions to practice various data struct
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0062-unique-paths) |
+| [0338-counting-bits](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0338-counting-bits) |
 | [1137-n-th-tribonacci-number](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
