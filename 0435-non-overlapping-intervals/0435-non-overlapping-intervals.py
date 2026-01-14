@@ -3,11 +3,11 @@ class Solution:
         intervals.sort(key = lambda x: (x[1], x[0]))
 
         remove = 0
-        prev = intervals[0]
+        prev_end = intervals[0][1]
         for i in intervals[1:]:
-            if i[0] < prev[1]:
+            if i[0] < prev_end:
                 remove += 1
             else:
-                prev = i
+                prev_end = i[1]
         
         return remove
