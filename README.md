@@ -37,6 +37,7 @@ A collection of solutions for LeetCode questions to practice various data struct
 | [0208-implement-trie-prefix-tree](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1044-find-common-characters) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1768-merge-strings-alternately](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -59,6 +60,7 @@ A collection of solutions for LeetCode questions to practice various data struct
 | ------- |
 | [0062-unique-paths](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0062-unique-paths) |
 | [0633-sum-of-square-numbers](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
 |  |
