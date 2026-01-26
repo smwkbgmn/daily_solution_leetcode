@@ -35,6 +35,7 @@ A collection of solutions for LeetCode questions to practice various data struct
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0392-is-subsequence](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1044-find-common-characters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -66,6 +67,7 @@ A collection of solutions for LeetCode questions to practice various data struct
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1768-merge-strings-alternately](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -182,6 +184,7 @@ A collection of solutions for LeetCode questions to practice various data struct
 | ------- |
 | [0062-unique-paths](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0062-unique-paths) |
 | [0338-counting-bits](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1137-n-th-tribonacci-number](https://github.com/smwkbgmn/daily_solution_leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
