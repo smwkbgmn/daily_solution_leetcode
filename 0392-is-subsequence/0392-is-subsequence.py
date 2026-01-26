@@ -17,15 +17,9 @@ class Solution:
                     break
                 table[j][char_i] = i + 1
 
-        # for i in range(0, len(t)):
-        #     for j in range(26):
-        #         print(table[i][j], end=", ")
-        #     print()
-
         prev = 0
         for c in s:
             char_i = ord(c) - ord('a')
-            print(table[prev][char_i])
             if table[prev][char_i] <= prev:
                 return False
             prev = table[prev][char_i]
